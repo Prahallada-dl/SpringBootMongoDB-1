@@ -9,6 +9,7 @@ public class SpringBootMongoDb1Application {
 
 	public static void main(String[] args) {
 		ConfigurableApplicationContext run = SpringApplication.run(SpringBootMongoDb1Application.class, args);
+		//changes for feature2
 		run.close();
 	}
 
