@@ -9,5 +9,8 @@ public class Car {
 	public void move() {
 		//changed in feature12
 	}
+	
+	private static String sting = "changes in feature12";
+	
 
 }
